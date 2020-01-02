@@ -558,7 +558,7 @@ function Kalkulator() {
                     // }
                 }
                 else {
-                    alert('ebi se');
+                    alert('press the button');
                 }
 
             }
